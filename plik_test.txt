@@ -1,0 +1,5 @@
+pierwsza linia
+druga linia
+     linia trzecia
+
+piąta linia (czwarta była pusta)
