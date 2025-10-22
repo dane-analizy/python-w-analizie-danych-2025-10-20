@@ -2,6 +2,9 @@
 
 Repozytorium zawiera materiały ze szkolenia [Analiza danych w Python. Wstęp z użyciem języka Python i jego bibliotek](https://www.comarch.pl/szkolenia/analiza-danych-biznesowych/python/analiza-danych-w-pythonwstep-z-uzyciem-jezyka-python-i-jego-bilbiotek/) (2025-10-20 - 2025-10-22)
 
+- *teoria* - w katalogu [materiały opisowe](materialy_opisowe)
+- notebooki z ćwiczeniami - w bieżącym katalogu
+
 ## Środowisko pracy
 
 - [Python](https://www.python.org/)
